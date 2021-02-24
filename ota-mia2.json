@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1613646278,
+      "datetime": 1614141012,
       "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f78pdc3",
+      "id": "wiuakvmrd7lp0g3zjz02ze8hcx0k8jwd",
       "romtype": "unofficial",
-      "size": 746493636,
-      "url": "https://drive.google.com/u/0/uc?export=download&confirm=UHpv&id=1mi11VY_gkn9XfO1-FkEh6uxD5rvQQE8O",
+      "size": 782459767,
+      "url": "https://files.sureshk.in/ota-package.zip",
       "version": "17.1"
     }
   ]
