@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1614150340,
+      "datetime": 1614224886,
       "filename": "ota-package.zip",
-      "id": "aaei4tj43k6ud1l1svgfo09d8k52p0rz",
+      "id": "msuxjdqguw2na9caz7ntrptekwbdjchq",
       "romtype": "unofficial",
-      "size": 19854307,
+      "size": 35638531,
       "url": "https://files.sureshk.in/ota-package.zip",
       "version": "17.1"
     }
